@@ -1,4 +1,4 @@
-# Ola este repositorio e de um curso de da digital innovation sobre flexbox
+# Ola este repositorio e de um curso da digital innovation sobre flexbox
 
 ###### O curso foi ministrado por Gabriela Pinheiro
 
